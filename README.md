@@ -1,21 +1,5 @@
 # Welcome to dapp-starter 👋
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
-
-> Opinionated Dapp Starter Template
-
-## 🏠 [Homepage](https://dapp-starter.productsway.com)
-
-## ✨ [Demo](https://dapp-starter.productsway.com)
-
 ## Screenshot
 
 ![./screenshot.png](./screenshot.png)
@@ -126,15 +110,6 @@ npx hardhat run --network localhost scripts/upgrade_box.ts
 - [ICO Token App](https://github.com/jellydn/dapp-token-ico): How to create An ERC20 token and implement ICO smart contract (CrowdSale).
 - [NFT App](https://github.com/jellydn/nft-app): How to create An ERC721 token.
 
-## Author
-
-👤 **Dung Huynh**
-
-- Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
-
-## Stargazers 🌟
 
 [![Stargazers repo roster for jellydn/dapp-starter](https://reporoster.com/stars/jellydn/dapp-starter)](https://github.com/jellydn/dapp-starter/stargazers)
 
@@ -148,22 +123,9 @@ Give a ⭐️ if this project helped you!
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://productsway.com/"><img src="https://avatars.githubusercontent.com/u/870029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dung Duc Huynh (Kaka)</b></sub></a><br /><a href="https://github.com/jellydn/dapp-starter/commits?author=jellydn" title="Documentation">📖</a> <a href="https://github.com/jellydn/dapp-starter/commits?author=jellydn" title="Code">💻</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
